@@ -8,6 +8,10 @@ Each idea gets its own file in [`ideas/`](ideas/), based on [`ideas/TEMPLATE.md`
 
 Add new ideas to the index below when you create them.
 
+## Workflow
+
+Every idea lives on its own branch: `idea/<slug>`, e.g. `idea/local-first-notes`. Add the idea's markdown file (and any code, if it goes beyond notes) on that branch, and keep working there for as long as the idea is alive. Only merge to `main` if/when an idea is actually done or you want it permanently promoted out of "maybe someday" status.
+
 ## Status legend
 
 - `idea` — just written down, nothing explored yet
