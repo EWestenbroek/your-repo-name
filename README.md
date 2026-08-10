@@ -24,4 +24,4 @@ Every idea lives on its own branch: `idea/<slug>`, e.g. `idea/local-first-notes`
 
 | Idea | Status | One-liner |
 |------|--------|-----------|
-| _none yet_ | | |
+| [Scheduling tool — friendly constraint input](ideas/scheduling-tool-input-ux.md) | exploring | Non-technical way for users to input diverse, math-heavy scheduling constraints |
