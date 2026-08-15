@@ -24,4 +24,4 @@ Every idea lives on its own branch: `idea/<slug>`, e.g. `idea/local-first-notes`
 
 | Idea | Status | One-liner |
 |------|--------|-----------|
-| [Carrot Worms — iPhone game](ideas/carrot-worms-iphone-game.md) | idea | Worms-style turn-based artillery game, carrot-themed, for iPhone |
+| [Carrot Worms — iPhone game](ideas/carrot-worms-iphone-game.md) | exploring | 2D turn-based vegetable game: underground tug-of-war on a shrinking garden bed, distinct from Worms |
