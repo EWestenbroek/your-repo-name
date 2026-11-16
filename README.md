@@ -24,4 +24,4 @@ Every idea lives on its own branch: `idea/<slug>`, e.g. `idea/local-first-notes`
 
 | Idea | Status | One-liner |
 |------|--------|-----------|
-| [Hybrid Quest Game](ideas/hybrid-quest-game.md) | idea | Game with linked digital and real-world quests; play either track, or both for the full game |
+| [Hybrid Quest Game](ideas/hybrid-quest-game.md) | idea | Game needing both digital and real-world quests; specialize in one side by doing quests for other players, or do both for the full game |
